@@ -6,3 +6,4 @@ gunicorn
 Pillow
 httpx
 PyJWT
+protobuf_decoder
