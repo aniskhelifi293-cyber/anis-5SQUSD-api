@@ -2,8 +2,8 @@ import requests, os, sys, jwt, json, time, urllib3, base64, datetime, re, socket
 import random
 from flask import Flask, request, jsonify
 from protobuf_decoder.protobuf_decoder import Parser
-from byte import *  # تأكد من وجود هذا الملف
-from xHeaders import *  # تأكد من وجود هذا الملف
+from byte import *
+from xHeaders import *
 from google.protobuf.timestamp_pb2 import Timestamp
 
 # إيقاع تحذيرات SSL
