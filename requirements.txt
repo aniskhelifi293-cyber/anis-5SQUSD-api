@@ -7,3 +7,4 @@ Pillow
 httpx
 PyJWT
 protobuf_decoder
+psutil
